@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanfish06&hide_progress=false&exclude_repo=phage,bacteria-phage-simulation&langs_count=7&layout=donut)](https://github.com/stanfish06/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanfish06&hide_progress=false&exclude_repo=phage,bacteria-phage-simulation,google-colab&langs_count=7&layout=donut)](https://github.com/stanfish06/github-readme-stats)
 <!--
 **stanfish06/stanfish06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
