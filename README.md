@@ -1,5 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanfish06&hide_progress=false&exclude_repo=phage,bacteria-phage-simulation,google-colab&langs_count=7&layout=donut)](https://github.com/stanfish06/github-readme-stats)
 [![Zhiyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanfish06)](https://github.com/stanfish06/github-readme-stats)
+<img src="ufo.gif" alt="nothing" width="150"/>
 <!--
 **stanfish06/stanfish06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
