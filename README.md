@@ -1,11 +1,11 @@
 [![Top Langs](https://github-readme-stats-lch8.vercel.app/api/top-langs/?username=stanfish06&hide=HTML,Jupyter+Notebook,MATLAB,Mathematica&hide_progress=false&exclude_repo=phage,bacteria-phage-simulation,google-colab&langs_count=8&layout=donut)](https://github.com/stanfish06/github-readme-stats)
 
-[![Zhiyuan's GitHub stats](https://github-readme-stats-lch8.vercel.app/api?username=stanfish06)](https://github.com/stanfish06/github-readme-stats)
+<!--[![Zhiyuan's GitHub stats](https://github-readme-stats-lch8.vercel.app/api?username=stanfish06)](https://github.com/stanfish06/github-readme-stats)-->
 
 <img src="ufo.gif" alt="nothing" width="150"/>
 
-Contact:
-zyyu@umich.edu
+<!--Contact:
+zyyu@umich.edu-->
 <!--
 **stanfish06/stanfish06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
