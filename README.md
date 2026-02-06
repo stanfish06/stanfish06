@@ -2,7 +2,7 @@
   <tr>
     <td rowspan="2">
       <a href="https://github.com/stanfish06/github-readme-stats">
-        <img src="https://github-readme-stats-lch8.vercel.app/api/top-langs/?username=stanfish06&hide=HTML,Jupyter+Notebook,MATLAB,Mathematica&hide_progress=false&exclude_repo=meme,phage,bacteria-phage-simulation,google-colab&langs_count=8&layout=donut" alt="Top Langs"/>
+        <img src="https://github-readme-stats-lch8.vercel.app/api/top-langs/?username=stanfish06&hide=HTML,Jupyter+Notebook,MATLAB,Mathematica&hide_progress=false&exclude_repo=Chikungunya-Zika,meme,phage,bacteria-phage-simulation,google-colab&langs_count=8&layout=donut" alt="Top Langs"/>
       </a>
     </td>
     <td>
