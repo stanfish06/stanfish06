@@ -7,6 +7,7 @@
     </td>
     <td>
       <img src="ufo.gif" alt="nothing" width="150"/>
+      <img src="coffee.gif" alt="nothing" width="75"/>
     </td>
   </tr>
   <tr>
