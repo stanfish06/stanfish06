@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td>
-      <img src="man.jpg" alt="nothing" width="300"/>
+      <img src="man.jpg" alt="nothing" width="150"/>
     </td>
   </tr>
 </table>
