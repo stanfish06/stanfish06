@@ -16,6 +16,9 @@
     <td>
       <img src="man.jpg" alt="nothing" width="150"/>
     </td>
+    <td>
+      <img src="arch.png" alt="nothing" width="75"/>
+    </td>
   </tr>
 </table>
 <div align="left">
