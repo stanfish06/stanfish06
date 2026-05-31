@@ -19,6 +19,9 @@
     <td>
       <img src="arch.png" alt="nothing" width="75"/>
     </td>
+    <td>
+      <img src="peng.JPG" alt="nothing" width="150"/>
+    </td>
   </tr>
 </table>
 <div align="left">
