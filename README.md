@@ -28,6 +28,8 @@
   <img src="sp_1.png" alt="banner" width="65%"/>
 </div>
 
+---
+
 Websites:
 - [GastruScope](https://gastruscope.com/)
 <!--[![Top Langs](https://github-readme-stats-lch8.vercel.app/api/top-langs/?username=stanfish06&hide=HTML,Jupyter+Notebook,MATLAB,Mathematica&hide_progress=false&exclude_repo=meme,phage,bacteria-phage-simulation,google-colab&langs_count=8&layout=donut)](https://github.com/stanfish06/github-readme-stats)-->
