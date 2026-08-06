@@ -24,9 +24,9 @@
     </td>
   </tr>
 </table>
-<div align="left">
-  <img src="sp_1.png" alt="banner" width="65%"/>
-</div>
+<!--<div align="left">-->
+<!--  <img src="sp_1.png" alt="banner" width="65%"/>-->
+<!--</div>-->
 
 ---
 
