@@ -12,7 +12,7 @@
       <img src="coffee.gif" alt="nothing" width="75"/>
     </td>
     <td>
-      <img src="asshole.gif" alt="nothing" width="75"/>
+      <img src="claude.gif" alt="nothing" width="75"/>
     </td>
   </tr>
   <tr>
