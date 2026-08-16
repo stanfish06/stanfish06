@@ -20,10 +20,10 @@
       <img src="man.jpg" alt="nothing" width="150"/>
     </td>
     <td>
-      <img src="arch.png" alt="nothing" width="75"/>
+      <img src="arch.png" alt="nothing" width="90"/>
     </td>
     <td>
-      <img src="gpt.gif" alt="nothing" width="150"/>
+      <img src="gpt.gif" alt="nothing" width="100"/>
     </td>
   </tr>
 </table>
