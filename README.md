@@ -34,6 +34,7 @@
 ---
 
 Websites:
+- [Personal website](https://www.stanfish.dev/)
 - [GastruScope](https://gastruscope.com/)
 
 ---
