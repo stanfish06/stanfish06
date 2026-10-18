@@ -45,6 +45,8 @@ Websites:
   </tr>
 </table>
 
+---
+
 If you were deceived by life, 
 
 Don’t feel dismal, don’t get mad!
