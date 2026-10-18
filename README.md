@@ -44,6 +44,22 @@ Websites:
     <img src="chart.gif" alt="nothing" width="100%"/>
   </tr>
 </table>
+
+If you were deceived by life, 
+
+Don’t feel dismal, don’t get mad!
+
+Be at ease and don’t feel sad: 
+
+The days of joy will soon arrive!
+
+The heart can’t wait for this to pass; 
+
+The present is depressing here: 
+
+All is fleeting rather fast;
+
+That which passes will be dear.
 <!--[![Top Langs](https://github-readme-stats-lch8.vercel.app/api/top-langs/?username=stanfish06&hide=HTML,Jupyter+Notebook,MATLAB,Mathematica&hide_progress=false&exclude_repo=meme,phage,bacteria-phage-simulation,google-colab&langs_count=8&layout=donut)](https://github.com/stanfish06/github-readme-stats)-->
 <!--<img src="man.jpg" alt="nothing" width="300"/>-->
 
