@@ -36,7 +36,7 @@
 Websites:
 - [Personal website](https://www.stanfish.dev/)
 - [GastruScope](https://gastruscope.com/)
-
+- [Curling game](https://curling.stanfish.dev/)
 ---
 
 <table>
