@@ -5,61 +5,43 @@
         <img src="https://github-readme-stats-lch8.vercel.app/api/top-langs/?username=stanfish06&hide=HTML,Jupyter+Notebook,MATLAB,Mathematica&hide_progress=false&exclude_repo=dot-agents,skillquarium,Chikungunya-Zika,meme,clawd,phage,bacteria-phage-simulation,google-colab&langs_count=8&layout=donut" alt="Top Langs"/>
       </a>
     </td>
-    <td>
-      <img src="ufo.gif" alt="nothing" width="150"/>
-    </td>
-    <td>
-      <img src="coffee.gif" alt="nothing" width="75"/>
-    </td>
-    <td>
-      <img src="claude.gif" alt="nothing" width="250"/>
-    </td>
+    <td align="center"><img src="ufo.gif" alt="nothing" height="110"/></td>
+    <td align="center"><img src="coffee.gif" alt="nothing" height="110"/></td>
+    <td align="center"><img src="claude.gif" alt="nothing" height="110"/></td>
   </tr>
   <tr>
-    <td>
-      <img src="man.jpg" alt="nothing" width="150"/>
-    </td>
-    <td>
-      <img src="arch.png" alt="nothing" width="90"/>
-    </td>
-    <td>
-      <img src="gpt.gif" alt="nothing" width="100"/>
-    </td>
+    <td align="center"><img src="man.jpg" alt="nothing" height="110"/></td>
+    <td align="center"><img src="arch.png" alt="nothing" height="110"/></td>
+    <td align="center"><img src="gpt.gif" alt="nothing" height="110"/></td>
   </tr>
 </table>
 <!--<div align="left">-->
 <!--  <img src="sp_1.png" alt="banner" width="65%"/>-->
 <!--</div>-->
 
----
-
-Websites:
-- [Personal website](https://www.stanfish.dev/)
-- [GastruScope](https://gastruscope.com/)
-- [Curling game](https://curling.stanfish.dev/)
----
-
 <a href="https://stanfish06.github.io/stanfish06/">
   <img src="grid.svg" alt="Contribution grid" width="100%"/>
 </a>
 
----
-
-If you were deceived by life, 
-
-Don’t feel dismal, don’t get mad!
-
-Be at ease and don’t feel sad: 
-
-The days of joy will soon arrive!
-
-The heart can’t wait for this to pass; 
-
-The present is depressing here: 
-
-All is fleeting rather fast;
-
-That which passes will be dear.
+<table>
+  <tr>
+    <td>
+      If you were deceived by life,<br/>
+      Don’t feel dismal, don’t get mad!<br/>
+      Be at ease and don’t feel sad:<br/>
+      The days of joy will soon arrive!<br/>
+      The heart can’t wait for this to pass;<br/>
+      The present is depressing here:<br/>
+      All is fleeting rather fast;<br/>
+      That which passes will be dear.
+    </td>
+    <td>
+      <a href="https://www.stanfish.dev/"><img src="icons/stanfish.png" alt="" height="16"/> Personal website</a><br/>
+      <a href="https://gastruscope.com/"><img src="icons/gastruscope.png" alt="" height="16"/> GastruScope</a><br/>
+      <a href="https://curling.stanfish.dev/"><img src="icons/curling.png" alt="" height="16"/> Curling game</a>
+    </td>
+  </tr>
+</table>
 <!--[![Top Langs](https://github-readme-stats-lch8.vercel.app/api/top-langs/?username=stanfish06&hide=HTML,Jupyter+Notebook,MATLAB,Mathematica&hide_progress=false&exclude_repo=meme,phage,bacteria-phage-simulation,google-colab&langs_count=8&layout=donut)](https://github.com/stanfish06/github-readme-stats)-->
 <!--<img src="man.jpg" alt="nothing" width="300"/>-->
 
