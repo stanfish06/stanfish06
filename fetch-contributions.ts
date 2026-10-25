@@ -1,18 +1,11 @@
 import { z } from "zod";
+import { buildPreview } from "./preview-svg.ts";
 
 const tokenFile = ".env";
 const tokenEnv = ["CONTRIB_TOKEN", "GITHUB_TOKEN"];
 const outFile = "contributions.json";
 const previewFile = "preview.svg";
 const login = Deno.env.get("CONTRIB_LOGIN") ?? "";
-
-const previewWeeks = 52;
-const previewCell = 14;
-const previewGap = 2;
-const previewCellRadius = 2;
-const previewCornerRadius = 24;
-const previewColor1 = "#11262D";
-const previewColor2 = "#DFFF00";
 
 const levels = {
     NONE: 0,
@@ -113,37 +106,6 @@ const out = {
     ),
 };
 
-function mix(a: string, b: string, t: number): string {
-    const ca = [1, 3, 5].map((i) => parseInt(a.slice(i, i + 2), 16));
-    const cb = [1, 3, 5].map((i) => parseInt(b.slice(i, i + 2), 16));
-    const [r, g, bl] = ca.map((v, i) => Math.round(v + (cb[i] - v) * t));
-    return `rgb(${r}, ${g}, ${bl})`;
-}
-
-function buildPreview(weeks: typeof out.weeks): string {
-    const recent = weeks.slice(-previewWeeks);
-    const offset = previewWeeks - recent.length;
-    const step = previewCell + previewGap;
-    const width = previewWeeks * step - previewGap;
-    const height = 7 * step - previewGap;
-    const rects = recent.flatMap((week, w) =>
-        week.map((day) => {
-            const x = (w + offset) * step;
-            const y = day.weekday * step;
-            const fill = mix(previewColor1, previewColor2, day.level / 4);
-            return `<rect x="${x}" y="${y}" width="${previewCell}" height="${previewCell}" rx="${previewCellRadius}" fill="${fill}"><title>${day.date}: ${day.count}</title></rect>`;
-        })
-    );
-    return [
-        `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">`,
-        `<clipPath id="c"><rect width="${width}" height="${height}" rx="${previewCornerRadius}"/></clipPath>`,
-        `<g clip-path="url(#c)">`,
-        ...rects,
-        `</g>`,
-        `</svg>`,
-    ].join("\n");
-}
-
 await Deno.writeTextFile(outFile, JSON.stringify(out));
-await Deno.writeTextFile(previewFile, buildPreview(out.weeks) + "\n");
+await Deno.writeTextFile(previewFile, (await buildPreview(out.weeks)) + "\n");
 console.log(`Wrote ${outFile} and ${previewFile}: ${out.login}, ${out.weeks.length} weeks, ${out.total} contributions`);

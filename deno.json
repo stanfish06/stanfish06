@@ -8,6 +8,7 @@
     },
     "tasks": {
         "fetch": "deno run --allow-read=.env --allow-write=contributions.json,preview.svg --allow-env=CONTRIB_TOKEN,GITHUB_TOKEN,CONTRIB_LOGIN --allow-net=api.github.com fetch-contributions.ts",
+        "preview": "deno run --allow-read=contributions.json --allow-write=preview.svg preview-svg.ts",
         "serve": "deno run --allow-net --allow-read jsr:@std/http@1.0.9/file-server --port 8000"
     }
 }
