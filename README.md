@@ -40,7 +40,7 @@ Websites:
 ---
 
 <a href="https://stanfish06.github.io/stanfish06/">
-  <img src="preview.svg" alt="Contribution grid" width="100%"/>
+  <img src="grid.svg" alt="Contribution grid" width="100%"/>
 </a>
 
 ---

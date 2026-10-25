@@ -4,7 +4,7 @@ import { buildPreview } from "./preview-svg.ts";
 const tokenFile = ".env";
 const tokenEnv = ["CONTRIB_TOKEN", "GITHUB_TOKEN"];
 const outFile = "contributions.json";
-const previewFile = "preview.svg";
+const previewFile = "grid.svg";
 const login = Deno.env.get("CONTRIB_LOGIN") ?? "";
 
 const levels = {

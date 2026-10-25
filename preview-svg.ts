@@ -1,5 +1,5 @@
 const dataFile = "contributions.json";
-const previewFile = "preview.svg";
+const previewFile = "grid.svg";
 
 const previewWeeks = 52;
 const cellSize = 14;
