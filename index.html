@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="grid.css">
+</head>
+<body>
+<div class="out">
+    <div class="grid" id="grid">
+        <div class="glass" id="glass">
+            <div class="glass-cells" id="glassCells"></div>
+            <div class="glass-rim"></div>
+        </div>
+    </div>
+</div>
+<svg width="0" height="0" style="position: absolute">
+    <filter id="liquid" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+        <feGaussianBlur id="glassBlurFx" in="SourceGraphic" result="blur" />
+        <feImage id="glassMap" result="map" preserveAspectRatio="none" />
+        <feDisplacementMap id="glassDisplace" in="blur" in2="map" xChannelSelector="R" yChannelSelector="G" result="bent" />
+        <feColorMatrix id="glassSaturateFx" in="bent" type="saturate" />
+    </filter>
+</svg>
+<script src="grid.js"></script>
+</body>
+</html>

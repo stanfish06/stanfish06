@@ -39,11 +39,9 @@ Websites:
 - [Curling game](https://curling.stanfish.dev/)
 ---
 
-<table>
-  <tr>
-    <img src="chart.gif" alt="nothing" width="100%"/>
-  </tr>
-</table>
+<a href="https://stanfish06.github.io/stanfish06/">
+  <img src="preview.svg" alt="Contribution grid" width="100%"/>
+</a>
 
 ---
 
