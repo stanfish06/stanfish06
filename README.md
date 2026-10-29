@@ -38,7 +38,8 @@
     <td>
       <a href="https://www.stanfish.dev/"><img src="icons/stanfish.png" alt="" height="16"/> Personal website</a><br/>
       <a href="https://gastruscope.com/"><img src="icons/gastruscope.png" alt="" height="16"/> GastruScope</a><br/>
-      <a href="https://curling.stanfish.dev/"><img src="icons/curling.png" alt="" height="16"/> Curling game</a>
+      <a href="https://curling.stanfish.dev/"><img src="icons/curling.png" alt="" height="16"/> Curling game</a><br/>
+      <a href="https://docs.scloop.dev/"><img src="" alt="" height="16"/> scloop (single-cell loop analysis)</a>
     </td>
   </tr>
 </table>
